@@ -117,175 +117,30 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="TitlePassword.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;PasswordTextbox.Name" xml:space="preserve">
-    <value>PasswordTextbox</value>
-  </data>
-  <data name="TitlePassword.Text" xml:space="preserve">
-    <value>Пароль</value>
-  </data>
-  <data name="&gt;&gt;PasswordTextbox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="TitleUser.Size" type="System.Drawing.Size, System.Drawing">
-    <value>197, 25</value>
-  </data>
-  <data name="UserTextBox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 21.25pt</value>
-  </data>
-  <data name="ButtonAuth.Location" type="System.Drawing.Point, System.Drawing">
-    <value>74, 154</value>
-  </data>
-  <data name="&gt;&gt;ButtonAuth.Name" xml:space="preserve">
-    <value>ButtonAuth</value>
-  </data>
-  <data name="&gt;&gt;UserTextBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="ButtonAuth.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Авторизация</value>
-  </data>
-  <data name="&gt;&gt;UserTextBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>110, 25</value>
   </data>
   <data name="TitleUser.Text" xml:space="preserve">
-    <value>Имя пользователя</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>FormAuth</value>
-  </data>
-  <data name="linkLabelLang.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;UserTextBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;TitlePassword.Name" xml:space="preserve">
-    <value>TitlePassword</value>
-  </data>
-  <data name="TitlePassword.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt</value>
-  </data>
-  <data name="ButtonAuth.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 25.25pt</value>
-  </data>
-  <data name="TitlePassword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 80</value>
-  </data>
-  <data name="&gt;&gt;TitlePassword.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabelLang.Name" xml:space="preserve">
-    <value>linkLabelLang</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>284, 211</value>
-  </data>
-  <data name="linkLabelLang.Text" xml:space="preserve">
-    <value>ru</value>
-  </data>
-  <data name="linkLabelLang.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="TitleUser.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;TitleUser.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabelLang.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="PasswordTextbox.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;TitleUser.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ButtonAuth.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="TitleUser.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 9</value>
-  </data>
-  <data name="linkLabelLang.Location" type="System.Drawing.Point, System.Drawing">
-    <value>246, 9</value>
-  </data>
-  <data name="&gt;&gt;PasswordTextbox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabelLang.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ButtonAuth.Text" xml:space="preserve">
-    <value>Войти</value>
-  </data>
-  <data name="&gt;&gt;TitleUser.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="linkLabelLang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>23, 20</value>
-  </data>
-  <data name="UserTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 37</value>
-  </data>
-  <data name="&gt;&gt;TitlePassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TitleUser.Name" xml:space="preserve">
-    <value>TitleUser</value>
-  </data>
-  <data name="&gt;&gt;UserTextBox.Name" xml:space="preserve">
-    <value>UserTextBox</value>
-  </data>
-  <data name="UserTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;linkLabelLang.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="PasswordTextbox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 21.25pt</value>
-  </data>
-  <data name="TitleUser.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;PasswordTextbox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="TitleUser.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt</value>
-  </data>
-  <data name="PasswordTextbox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 108</value>
-  </data>
-  <data name="PasswordTextbox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>257, 40</value>
-  </data>
-  <data name="&gt;&gt;ButtonAuth.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>Username</value>
   </data>
   <data name="TitlePassword.Size" type="System.Drawing.Size, System.Drawing">
-    <value>86, 25</value>
+    <value>106, 25</value>
   </data>
-  <data name="linkLabelLang.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt</value>
+  <data name="TitlePassword.Text" xml:space="preserve">
+    <value>Password</value>
   </data>
-  <data name="&gt;&gt;ButtonAuth.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="ButtonAuth.Text" xml:space="preserve">
+    <value>Log In</value>
   </data>
-  <data name="ButtonAuth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 47</value>
+  <data name="linkLabelLang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 9</value>
+  </data>
+  <data name="linkLabelLang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 20</value>
+  </data>
+  <data name="linkLabelLang.Text" xml:space="preserve">
+    <value>en</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1419,19 +1274,7 @@
         //////////////////////////////////8=
 </value>
   </data>
-  <data name="UserTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>257, 40</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Authorization</value>
   </data>
-  <data name="&gt;&gt;TitlePassword.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="TitlePassword.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>en</value>
-  </metadata>
 </root>

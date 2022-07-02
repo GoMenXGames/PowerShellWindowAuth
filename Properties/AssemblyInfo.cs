@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("PowerShellAuth")]
-[assembly: AssemblyDescription("PowerShellAuth GUI for Auth into PowerShell GUI")]
-[assembly: AssemblyConfiguration("Beta")]
+[assembly: AssemblyTitle("ADUserAndGroupAuth")]
+[assembly: AssemblyDescription("AD User & Group Auth for Auth into AD User & Group Manager")]
+[assembly: AssemblyConfiguration("Release")]
 [assembly: AssemblyCompany("GoProjsXDev")]
-[assembly: AssemblyProduct("PowerShellWindowAuth")]
+[assembly: AssemblyProduct("ADUserAndGroupAuth")]
 [assembly: AssemblyCopyright("Copyright © GoProjsXDev 2021")]
 [assembly: AssemblyTrademark("GoProjsXDev")]
 
